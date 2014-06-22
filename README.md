@@ -43,4 +43,4 @@ A new data frame (**x5**) is created from combining the *subjectId* column from
 **subject** data frame and all columns from **x3**, and applying `colMeans` 
 function grouped by *activityName*, *subjectId* columns.
 
-**x5** data frame is finally writed into the **tidy_data_set.txt** file.
+**x5** data frame is finally writen into the **tidy_data_set.txt** file.
